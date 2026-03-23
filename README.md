@@ -22,10 +22,6 @@
 
 ---
 
-<p align="center">
-<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="600"/>
-</p>
-
 ---
 
 # ✨ Project Overview
@@ -147,12 +143,6 @@ Category: Urgent
 ```
 
 ---
-
-# 📸 Live Workflow Preview
-
-<p align="center">
-<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="600"/>
-</p>
 
 ---
 
